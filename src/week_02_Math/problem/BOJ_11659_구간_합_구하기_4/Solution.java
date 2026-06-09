@@ -1,4 +1,4 @@
-package week_02_Math.BOJ_11659_구간_합_구하기_4;
+package week_02_Math.problem.BOJ_11659_구간_합_구하기_4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

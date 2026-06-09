@@ -1,4 +1,4 @@
-package week_01_BFS_DFS.problem.BOJ_11724_연결_요소의_개수;
+package week_01_BFS_DFS_adj.problem.BOJ_11724_연결_요소의_개수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

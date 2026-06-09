@@ -1,4 +1,4 @@
-package week_01_BFS_DFS.problem.BOJ_1260_DFS와_BFS;
+package week_01_BFS_DFS_adj.problem.BOJ_1260_DFS와_BFS;
 
 import java.io.BufferedReader;
 import java.io.IOException;

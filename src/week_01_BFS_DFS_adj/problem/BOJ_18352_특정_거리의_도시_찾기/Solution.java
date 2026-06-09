@@ -1,4 +1,4 @@
-package week_01_BFS_DFS.problem.BOJ_18352_특정_거리의_도시_찾기;
+package week_01_BFS_DFS_adj.problem.BOJ_18352_특정_거리의_도시_찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

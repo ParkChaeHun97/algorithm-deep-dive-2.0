@@ -1,4 +1,4 @@
-package week_01_BFS_DFS.problem.BOJ_11725_트리의_부모_찾기;
+package week_01_BFS_DFS_adj.problem.BOJ_11725_트리의_부모_찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

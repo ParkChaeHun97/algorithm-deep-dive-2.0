@@ -1,4 +1,4 @@
-package week_01_BFS_DFS.template.graph;
+package week_01_BFS_DFS_adj.template.graph;
 
 
 import java.util.ArrayList;

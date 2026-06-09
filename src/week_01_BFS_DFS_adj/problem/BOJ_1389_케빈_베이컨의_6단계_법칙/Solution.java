@@ -1,4 +1,4 @@
-package week_01_BFS_DFS.problem.BOJ_1389_케빈_베이컨의_6단계_법칙;
+package week_01_BFS_DFS_adj.problem.BOJ_1389_케빈_베이컨의_6단계_법칙;
 
 import java.io.BufferedReader;
 import java.io.IOException;
