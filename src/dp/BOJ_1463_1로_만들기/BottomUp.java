@@ -1,10 +1,10 @@
-package week_03_number_theory.problem.dp.BOJ_1463_1로_만들기;
+package dp.BOJ_1463_1로_만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class solution {
+public class BottomUp {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

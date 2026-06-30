@@ -10,7 +10,7 @@
     - `dp[i] = Math.min(dp[i], 1 + dp[i-1])` (항상)
 - O(N)으로 해결
 
-![make_1.png](make_1.png)
+![make_1.png](make_1_bottom_up.png)
 
 ### 핵심 포인트
 - 그리디의 함정: "2로 나눠지면 무조건 나누는 게 이득"처럼 보이지만 틀림
