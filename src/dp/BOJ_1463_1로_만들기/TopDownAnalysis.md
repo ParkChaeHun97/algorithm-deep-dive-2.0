@@ -3,8 +3,7 @@
 ## 문제
 - 정수 N을 1로 만드는 최소 연산 횟수 (3으로 나누기 / 2로 나누기 / 1 빼기)
 - 동일 문제를 Bottom-up에 이어 Top-down(재귀+메모이제이션)으로 재구현
-
-## 핵심 포인트
+![make_1_top_down.png](make_1_top_down.png)
 
 ### Bottom-up vs Top-down 구조 차이
 - Bottom-up: 1부터 N까지 순서대로 테이블을 채워나감
