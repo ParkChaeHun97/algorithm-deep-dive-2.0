@@ -1,9 +1,8 @@
-package week_03_number_theory.problem.dp.BOJ_11726_2xn_타일링;
+package dp.BOJ_11726_2xn_타일링;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.nio.Buffer;
 
 public class Solution {
     public static void main(String[] args) throws IOException {

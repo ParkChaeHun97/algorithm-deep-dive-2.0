@@ -1,4 +1,4 @@
-package week_03_number_theory.problem.dp.BOJ_9095_1_2_3_더하기;
+package dp.BOJ_9095_1_2_3_더하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

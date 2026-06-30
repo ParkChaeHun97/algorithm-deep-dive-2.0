@@ -1,4 +1,4 @@
-package week_03_number_theory.problem.dp.BOJ_1003_fibonacci;
+package dp.BOJ_1003_fibonacci;
 
 import java.io.BufferedReader;
 import java.io.IOException;
