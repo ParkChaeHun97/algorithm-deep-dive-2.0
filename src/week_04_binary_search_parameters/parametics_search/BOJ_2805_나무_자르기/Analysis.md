@@ -38,6 +38,9 @@ while (left <= right) {
 - 조건 불만족이면 H 낮추기 (right = mid - 1)
 - O(N log N)으로 해결
 
+
+![Tree_cut.png](Tree_cut.png)
+
 ### 핵심 포인트
 - **오버플로우 주의**: 나무 높이 최대 10^9 × 나무 개수 10^6 = 최대 10^15 → treeSum, M 모두 long 필수
 - **정답 처리**: treeSum == M일 때 바로 return하면 안 됨 → 더 높은 H에서도 M 이상 나올 수 있음 → answer에 후보 저장하고 계속 탐색
