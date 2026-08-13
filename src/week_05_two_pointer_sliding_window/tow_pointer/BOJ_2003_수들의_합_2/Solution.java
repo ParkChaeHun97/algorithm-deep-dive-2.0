@@ -35,10 +35,14 @@ public class Solution {
         // while 조건 자체를 바꾸거나? right가 arr 범위를 벗어나지 않도록 조건 조정...
 
         while (left < n) {
+            // 오른쪽 포인터 이동 조건
             if (right < n && sum < m) { // right가 n을 안넘고, sum이 m을 안넘음, 이러면 right가 끝에 도달해도? left를 움직일 수 있음.
                 sum += arr[right];
                 right++;
+
+            // 왼쪽 포인터 이동 조건
             } else if (sum >= m) { // sum이 m 크거나 같은데
+                // 값을 찾음
                 if (sum == m) { // sum이 m이랑 같음
                     count++;
                 }
