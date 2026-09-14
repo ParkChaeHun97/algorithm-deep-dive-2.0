@@ -1,6 +1,5 @@
-package week_09_implementation_simulation.kakao_blid_2018_캐시;
+package week_09_implementation_simulation.kakao_blind_2018_캐시;
 
-import java.io.*;
 import java.util.*;
 
 class Solution {
