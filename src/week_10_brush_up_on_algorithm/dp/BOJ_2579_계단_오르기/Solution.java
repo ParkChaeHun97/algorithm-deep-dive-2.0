@@ -1,4 +1,4 @@
-package week_10_brush_up_on_algorithm.BOJ_2579_계단_오르기;
+package week_10_brush_up_on_algorithm.dp.BOJ_2579_계단_오르기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
