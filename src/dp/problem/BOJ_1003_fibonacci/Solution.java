@@ -1,4 +1,4 @@
-package dp.BOJ_1003_fibonacci;
+package dp.problem.BOJ_1003_fibonacci;
 
 import java.io.BufferedReader;
 import java.io.IOException;

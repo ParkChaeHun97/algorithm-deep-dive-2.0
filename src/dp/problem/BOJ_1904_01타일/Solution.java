@@ -1,4 +1,4 @@
-package dp.BOJ_1904_01타일;
+package dp.problem.BOJ_1904_01타일;
 
 import java.io.BufferedReader;
 import java.io.IOException;

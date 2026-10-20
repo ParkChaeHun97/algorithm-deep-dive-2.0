@@ -1,4 +1,4 @@
-package dp.BOJ_11053_가장_긴_증가하는_부분_수열;
+package dp.problem.BOJ_11053_가장_긴_증가하는_부분_수열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

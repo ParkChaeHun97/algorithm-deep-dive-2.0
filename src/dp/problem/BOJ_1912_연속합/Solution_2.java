@@ -1,4 +1,4 @@
-package dp.BOJ_1912_연속합;
+package dp.problem.BOJ_1912_연속합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package week_10_brush_up_on_algorithm.dp.programmers_정수_삼각형;
+package dp.problem.PGS_정수_삼각형;
 
 
 class Solution {

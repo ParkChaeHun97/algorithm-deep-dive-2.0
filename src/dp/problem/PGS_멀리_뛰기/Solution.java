@@ -1,4 +1,4 @@
-package programmers.멀리_뛰기;
+package dp.problem.PGS_멀리_뛰기;
 
 class Solution {
     public long solution(int n) {

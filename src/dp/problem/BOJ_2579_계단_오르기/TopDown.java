@@ -1,4 +1,4 @@
-package dp.BOJ_2579_계단_오르기;
+package dp.problem.BOJ_2579_계단_오르기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

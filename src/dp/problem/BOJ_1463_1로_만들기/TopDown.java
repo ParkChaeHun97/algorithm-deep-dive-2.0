@@ -1,4 +1,4 @@
-package dp.BOJ_1463_1로_만들기;
+package dp.problem.BOJ_1463_1로_만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

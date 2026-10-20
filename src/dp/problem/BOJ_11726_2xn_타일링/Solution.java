@@ -1,4 +1,4 @@
-package dp.BOJ_11726_2xn_타일링;
+package dp.problem.BOJ_11726_2xn_타일링;
 
 import java.io.BufferedReader;
 import java.io.IOException;

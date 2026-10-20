@@ -1,4 +1,4 @@
-package dp.BOJ_9461_파도반_수열;
+package dp.problem.BOJ_9461_파도반_수열;
 
 import java.io.BufferedReader;
 import java.io.IOException;
