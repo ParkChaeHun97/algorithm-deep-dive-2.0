@@ -1,4 +1,4 @@
-package brush_up_on.backtracking.N과M1;
+package brute_force_backtracking.problem.BOJ_15649_N과_M_1;
 
 /**
  * 1. 제약 -> 복잡도
@@ -36,7 +36,7 @@ package brush_up_on.backtracking.N과M1;
  * 되롤릴 상태 : 마지막으로 사용한 숫자의 사용상태를 원복한다.
  * */
 
-public class Solution {
+public class Solution_review {
 
 
     public static void main(String[] args) {

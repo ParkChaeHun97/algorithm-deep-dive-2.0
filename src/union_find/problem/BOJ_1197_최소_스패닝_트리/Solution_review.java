@@ -1,4 +1,4 @@
-package week_10_brush_up_on_algorithm.union_find.BOJ_1197_최소_스패닝_트리;
+package union_find.problem.BOJ_1197_최소_스패닝_트리;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import java.util.*;
  *
  *
  * */
-public class Solution {
+public class Solution_review {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());

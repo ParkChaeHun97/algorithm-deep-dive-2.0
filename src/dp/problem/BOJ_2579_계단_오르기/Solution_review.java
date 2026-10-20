@@ -1,10 +1,10 @@
-package week_10_brush_up_on_algorithm.dp.BOJ_2579_계단_오르기;
+package dp.problem.BOJ_2579_계단_오르기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Solution {
+public class Solution_review {
     static int n;
     static int[] dp_one, dp_two;
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

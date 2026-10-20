@@ -1,11 +1,11 @@
-package week_10_brush_up_on_algorithm.dp.BOJ_11053_가장_긴_증가하는_부분_수열;
+package dp.problem.BOJ_11053_가장_긴_증가하는_부분_수열;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Solution {
+public class Solution_review {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());

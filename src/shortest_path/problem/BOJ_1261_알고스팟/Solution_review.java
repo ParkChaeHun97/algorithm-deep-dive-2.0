@@ -1,4 +1,4 @@
-package week_10_brush_up_on_algorithm.dijkstra.BOJ_1261_알고스팟;
+package shortest_path.problem.BOJ_1261_알고스팟;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -16,7 +16,7 @@ import java.util.*;
  *
  * 3
  * */
-public class Solution {
+public class Solution_review {
     final static int[] dy = {-1, 1, 0, 0};
     final static int[] dx = {0, 0, -1, 1};
     static int M, N;

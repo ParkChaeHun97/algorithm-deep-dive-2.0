@@ -1,4 +1,4 @@
-package week_10_brush_up_on_algorithm.dp.BOJ_1912_연속합;
+package dp.problem.BOJ_1912_연속합;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
  * 10
  * 10 -4 3 1 5 6 -35 12 21 -1
  * */
-public class Solution {
+public class Solution_review {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());

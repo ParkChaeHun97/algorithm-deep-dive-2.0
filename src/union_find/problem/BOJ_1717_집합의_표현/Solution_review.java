@@ -1,4 +1,4 @@
-package week_10_brush_up_on_algorithm.union_find.BOJ_1717_집합의_표현;
+package union_find.problem.BOJ_1717_집합의_표현;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -20,7 +20,7 @@ import java.util.StringTokenizer;
  * 1은 집합 인지 확인
  *
  * */
-public class Solution {
+public class Solution_review {
     static int n, m;
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;

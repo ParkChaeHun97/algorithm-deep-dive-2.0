@@ -1,4 +1,4 @@
-package brush_up_on.backtracking.N과M2;
+package brute_force_backtracking.problem.BOJ_15650_N과_M_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -16,7 +16,7 @@ import java.util.StringTokenizer;
  *
  *
  *  */
-public class Solution {
+public class Solution_review {
     static StringBuilder sb = new StringBuilder();
     public static void main(String[] args) throws IOException {
 
