@@ -3,7 +3,7 @@ package brute_force_backtracking.problem.KAKAO_BLIND2018_모의고사;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class Solution {
 
     public static int[] solution(int[] answers) {
         int one = 0;

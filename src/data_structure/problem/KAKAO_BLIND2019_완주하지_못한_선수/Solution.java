@@ -2,7 +2,7 @@ package data_structure.problem.KAKAO_BLIND2019_완주하지_못한_선수;
 
 import java.util.HashMap;
 
-public class Main {
+public class Solution {
 
     public static String solution(String[] participant, String[] completion) {
 

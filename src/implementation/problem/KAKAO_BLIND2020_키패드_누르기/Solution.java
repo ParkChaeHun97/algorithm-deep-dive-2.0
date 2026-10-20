@@ -3,7 +3,7 @@ package implementation.problem.KAKAO_BLIND2020_키패드_누르기;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-public class Main {
+public class Solution {
 
     static int[][] phoneMap = new int[4][3];
     static int[] dx = {0, 0, -1, 1};

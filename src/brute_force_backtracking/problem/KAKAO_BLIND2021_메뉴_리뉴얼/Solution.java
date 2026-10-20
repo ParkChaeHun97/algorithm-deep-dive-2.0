@@ -2,7 +2,7 @@ package brute_force_backtracking.problem.KAKAO_BLIND2021_메뉴_리뉴얼;
 
 import java.util.*;
 
-public class Main {
+public class Solution {
 
     /**
      * orders는 각 사람이 시킨 단품 메뉴
