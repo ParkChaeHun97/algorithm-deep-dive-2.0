@@ -25,7 +25,7 @@ public class ZeroOneBFS {
         deque.addFirst(new int[]{start, 0});
 
         while (!deque.isEmpty()) {
-            int[] cur = deque.getFirst();
+            int[] cur = deque.pollFirst(); // 꺼내면서 제거해야 다음 원소로 진행됨
             int node = cur[0];
             int d = cur[1];
 
@@ -36,8 +36,8 @@ public class ZeroOneBFS {
                 int weight = edge[1];
                 if(dist[node] + weight < dist[next]) {
                     dist[next] = dist[node] + weight;
-                    if(weight == 0) deque.addFirst(new int[]{next, weight});
-                    else deque.addLast(new int[]{next, weight});
+                    if(weight == 0) deque.addFirst(new int[]{next, dist[next]}); // 큐에는 간선 가중치가 아니라 갱신된 거리를 넣음
+                    else deque.addLast(new int[]{next, dist[next]});
                 }
             }
 

@@ -11,7 +11,7 @@ public class BinarySearch {
 
 
         while (left <= right) {
-            int mid = left + right / 2;
+            int mid = (left + right) / 2;
 
             if (arr[mid] == target) {
                 System.out.println(arr[mid]);
