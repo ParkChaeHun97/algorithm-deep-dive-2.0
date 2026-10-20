@@ -1,4 +1,4 @@
-package week_04_binary_search_parameters.binary_search.template;
+package binary_search.template;
 
 public class BinarySearch {
     public static void main(String[] args) {

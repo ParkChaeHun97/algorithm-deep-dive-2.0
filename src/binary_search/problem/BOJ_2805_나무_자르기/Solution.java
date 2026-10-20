@@ -1,4 +1,4 @@
-package week_04_binary_search_parameters.parametics_search.BOJ_2805_나무_자르기;
+package binary_search.problem.BOJ_2805_나무_자르기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

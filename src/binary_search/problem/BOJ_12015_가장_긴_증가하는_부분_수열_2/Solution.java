@@ -1,4 +1,4 @@
-package week_04_binary_search_parameters.parametics_search.BOJ_12015_가장_긴_증가하는_부분_수열_2;
+package binary_search.problem.BOJ_12015_가장_긴_증가하는_부분_수열_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

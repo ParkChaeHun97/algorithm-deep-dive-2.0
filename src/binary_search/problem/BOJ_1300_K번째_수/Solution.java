@@ -1,4 +1,4 @@
-package week_04_binary_search_parameters.binary_search.BOJ_1300_K번째_수;
+package binary_search.problem.BOJ_1300_K번째_수;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,6 +1,6 @@
-package week_04_binary_search_parameters.binary_search.BOJ_1920_수_찾기;
+package binary_search.problem.BOJ_1920_수_찾기;
 
-import week_04_binary_search_parameters.binary_search.template.BinarySearch;
+import binary_search.template.BinarySearch;
 
 import java.io.BufferedReader;
 import java.io.IOException;
