@@ -1,12 +1,17 @@
-package week_07_Shortest_path_grouping.Remind;
+package graph_search.template;
 
 import java.util.*;
 
 /**
  * 너비 우선 탐색.
  * Queue를 활용한다.
+ *
+ * O(V + E)
+ * V = Vertex, 노드의 개수
+ * E = Edge, 연결선의 개수
+ * 노드가 30개고 연결이 100개면 130번 연산
  * */
-public class BFS_Remind {
+public class BFS_Template {
     static List<List<Integer>> graph = new ArrayList<>();
     static boolean[] visited;
 
