@@ -1,4 +1,4 @@
-package week_07_Shortest_path_grouping.BOJ_1197_최소_스패닝_트리;
+package union_find.problem.BOJ_1197_최소_스패닝_트리;
 
 import java.util.*;
 import java.io.*;

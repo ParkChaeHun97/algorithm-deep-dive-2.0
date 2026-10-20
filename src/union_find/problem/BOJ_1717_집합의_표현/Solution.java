@@ -1,4 +1,4 @@
-package week_07_Shortest_path_grouping.BOJ_1717_집합의_표현;
+package union_find.problem.BOJ_1717_집합의_표현;
 
 
 import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-package kakao_prablom.kakao_blind_2021.합승_택시_요금;
+package shortest_path.problem.KAKAO_BLIND2021_합승_택시_요금;
 
 import java.util.Arrays;
 

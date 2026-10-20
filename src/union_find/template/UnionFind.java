@@ -1,4 +1,4 @@
-package week_07_Shortest_path_grouping.templates;
+package union_find.template;
 
 public class UnionFind {
     static int[] parent;

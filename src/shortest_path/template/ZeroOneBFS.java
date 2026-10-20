@@ -1,4 +1,4 @@
-package week_07_Shortest_path_grouping.templates;
+package shortest_path.template;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
@@ -15,7 +15,7 @@ import java.util.List;
  *
  * */
 
-public class _01_bfs{
+public class ZeroOneBFS {
     static List<List<int[]>> graph = new ArrayList<>();
     static int[] dist;
 

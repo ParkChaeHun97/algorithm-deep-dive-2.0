@@ -1,10 +1,10 @@
-package week_07_Shortest_path_grouping.templates;
+package shortest_path.template;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Dijkstra_O_V2 {
+public class Dijkstra_Array {
     static final int INF = Integer.MAX_VALUE;
     static List<List<int[]>> graph = new ArrayList<>(); // List<다음정점, 가중치]>
     public static void main(String[] args) {

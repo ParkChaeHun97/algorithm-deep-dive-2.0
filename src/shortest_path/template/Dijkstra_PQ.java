@@ -1,11 +1,11 @@
-package week_07_Shortest_path_grouping.templates;
+package shortest_path.template;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Dijkstra_bfs {
+public class Dijkstra_PQ {
     static int V, E, start;
     static List<List<int[]>> graph;
     static int[] dist;

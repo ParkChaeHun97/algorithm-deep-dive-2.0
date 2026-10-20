@@ -1,4 +1,4 @@
-package week_07_Shortest_path_grouping.BOJ_1976_여행가자;
+package union_find.problem.BOJ_1976_여행가자;
 
 import java.io.*;
 import java.util.*;

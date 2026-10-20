@@ -1,4 +1,4 @@
-package week_07_Shortest_path_grouping.BOJ_13549_숨바꼭질_3;
+package shortest_path.problem.BOJ_13549_숨바꼭질_3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

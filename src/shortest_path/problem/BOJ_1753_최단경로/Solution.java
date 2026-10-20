@@ -1,4 +1,4 @@
-package week_07_Shortest_path_grouping.BOJ_1753_최단경로;
+package shortest_path.problem.BOJ_1753_최단경로;
 
 import java.io.BufferedReader;
 import java.io.IOException;
