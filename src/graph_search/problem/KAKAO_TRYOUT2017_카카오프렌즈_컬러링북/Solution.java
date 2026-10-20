@@ -1,4 +1,4 @@
-package kakao_prablom.kakao_try_out_2017.카카오프렌즈_컬러링북;
+package graph_search.problem.KAKAO_TRYOUT2017_카카오프렌즈_컬러링북;
 /**
  * 방문하지 않은 구역일떄 ++
  * 같은 번호일때만 주변 경로 방문

@@ -1,9 +1,9 @@
-package week_07_Shortest_path_grouping.Remind;
+package graph_search.problem.BOJ_2606_바이러스;
 
 import java.util.*;
 import java.io.*;
 
-public class BOJ_2606_바이러스 {
+public class Solution {
     static List<List<Integer>> graph = new ArrayList<>();
     static boolean[] visited;
     static int count = 0; // 바이러스에 감염된 컴퓨터의 수

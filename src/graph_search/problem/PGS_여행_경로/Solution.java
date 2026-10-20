@@ -1,4 +1,4 @@
-package programmers.여행_경로;
+package graph_search.problem.PGS_여행_경로;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package kakao_prablom.kakao_winter_internship_2021.거리두기_확인하기;
+package graph_search.problem.KAKAO_WINTER2021_거리두기_확인하기;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package kakao_prablom.kakao_blind_2025.바이러스_파이프;
+package graph_search.problem.KAKAO_BLIND2025_바이러스_파이프;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

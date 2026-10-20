@@ -1,4 +1,4 @@
-package tree.BOJ_1991_트리_순회;
+package tree.problem.BOJ_1991_트리_순회;
 
 import java.io.BufferedReader;
 import java.io.IOException;

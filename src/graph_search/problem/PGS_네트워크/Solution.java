@@ -1,4 +1,4 @@
-package programmers.네트워크;
+package graph_search.problem.PGS_네트워크;
 
 // A - B 연결되어있고, B C와 연결되어있으면 A - C 도 정보 교환 가능
 // A - B - C 가 연결되어있을 때 네트워크는 1개
