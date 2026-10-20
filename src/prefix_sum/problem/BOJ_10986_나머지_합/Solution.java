@@ -1,4 +1,4 @@
-package week_02_Math.problem.BOJ_10986_나머지_합;
+package prefix_sum.problem.BOJ_10986_나머지_합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

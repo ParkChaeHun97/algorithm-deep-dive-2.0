@@ -1,4 +1,4 @@
-package week_03_number_theory.template;
+package number_theory.template;
 
 public class Euclidean {
 

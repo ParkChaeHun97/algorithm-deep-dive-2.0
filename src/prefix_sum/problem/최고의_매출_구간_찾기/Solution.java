@@ -1,4 +1,4 @@
-package week_02_Math.problem.최고의_매출_구간_찾기;
+package prefix_sum.problem.최고의_매출_구간_찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package week_03_number_theory.problem.BOJ_2581_소수_찾기;
+package number_theory.problem.BOJ_2581_소수_찾기;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package week_03_number_theory.problem.BOJ_2609_GCD_LCM;
+package number_theory.problem.BOJ_2609_GCD_LCM;
 
 import java.io.BufferedReader;
 import java.io.IOException;

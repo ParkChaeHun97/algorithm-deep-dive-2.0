@@ -1,4 +1,4 @@
-package week_03_number_theory.problem.BOJ_1929_eratosthenes;
+package number_theory.problem.BOJ_1929_eratosthenes;
 
 import java.io.BufferedReader;
 import java.io.IOException;

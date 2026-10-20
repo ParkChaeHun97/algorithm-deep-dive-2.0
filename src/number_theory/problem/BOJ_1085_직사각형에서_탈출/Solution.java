@@ -1,4 +1,4 @@
-package week_03_number_theory.problem.BOJ_1085_직사각형에서_탈출;
+package number_theory.problem.BOJ_1085_직사각형에서_탈출;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package week_03_number_theory.problem.BOJ_11653_소인수분해;
+package number_theory.problem.BOJ_11653_소인수분해;
 
 import java.io.BufferedReader;
 import java.io.IOException;
