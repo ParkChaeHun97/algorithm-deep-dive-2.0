@@ -1,0 +1,25 @@
+package data_structure.problem.PGS_올바른_괄호;
+
+import java.util.Stack;
+
+class Solution {
+    boolean solution(String s) {
+        Stack<Character> stack = new Stack<>();
+
+        for(int i = 0; i< s.length(); i++) {
+
+            if(s.charAt(i) == '(') {
+                stack.push('(');
+            }else if(s.charAt(i) == ')') {
+                if(stack.isEmpty()) {
+                    return false;
+                }
+                if(stack.peek() == '(') {
+                    stack.pop();
+                }
+            }
+        }
+
+        return stack.size() == 0 ? true : false;
+    }
+}
