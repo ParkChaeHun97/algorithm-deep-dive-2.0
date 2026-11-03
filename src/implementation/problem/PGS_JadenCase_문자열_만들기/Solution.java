@@ -1,4 +1,4 @@
-package implementation.problem.PSG_JadenCase_문자열_만들기;
+package implementation.problem.PGS_JadenCase_문자열_만들기;
 
 class Solution {
     public String solution(String s) {
